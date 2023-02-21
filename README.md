@@ -1,2 +1,3 @@
 # Multithreading-and-Concurreny
 This project is developed to learn basics of multithreading and concurrent with examples and challenge problems
+Java threads allow programs to execute multiple blocks of code at the same time. This advanced Java course focuses on threads and concurrency, and is useful to Java programmers and even non-Java programmers who want to get a quick and practical understanding of these important concepts. This introduces you to Java threads and the concept of concurrency. And also explains: The difference between multitasking and multithreading; the difference between a process and a thread; how to create and start a thread; and how to use different methods of the thread class.
